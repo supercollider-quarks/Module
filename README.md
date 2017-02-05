@@ -1,0 +1,1 @@
+This class was an unfinished attempt to create a component of a composition that could be loaded at runtime. It was removed from the core class library and now resides here in case anyone wants to revive it.
